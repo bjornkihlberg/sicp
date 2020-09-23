@@ -1,5 +1,6 @@
-# sicp
-a study of mit sicp
+# Structure and Interpretation of Computer Programs (SICP)
+
+I've wanted to go through this book for years and now I've decided to finally do it.
 
 ## Chapter 1
 
