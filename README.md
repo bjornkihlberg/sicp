@@ -6,7 +6,7 @@ I've wanted to go through this book for years and now I've decided to finally do
 
 Basics of programming
 
-### Topics covered:
+### Topics:
 
 - expressions
 - variables
@@ -17,3 +17,16 @@ Basics of programming
 - scoping
 - control structures
 - lambdas
+
+## Chapter 2
+
+How we can build more interesting algorithms to solve algebra problems.
+
+### Topics:
+
+- abstract data
+- symbols
+- quotations
+- underlying data representations
+- generic operations
+- automatic differentiation
