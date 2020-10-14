@@ -1,0 +1,12 @@
+{
+  "Scheme code block":{
+    "prefix": "schemeblock",
+    "description": "Create a code block for Scheme",
+    "scope": "markdown",
+    "body": [
+      "```scheme",
+      "$1",
+      "```"
+    ]
+  }
+}
