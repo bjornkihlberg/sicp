@@ -3,7 +3,7 @@
 I'm going to include my little testing framework from **ex01-unit-testing**.
 
 ```scheme
-(load "unit-test.ss")
+(load "libs/unit-test.ss")
 ```
 
 Contents of `unit-test.ss`:
