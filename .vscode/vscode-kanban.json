@@ -31,18 +31,7 @@
       "title": "stream functions"
     }
   ],
-  "in-progress": [
-    {
-      "assignedTo": {
-        "name": "Björn Kihlberg"
-      },
-      "category": "functional_programming",
-      "creation_time": "2020-10-16T02:37:50.482Z",
-      "id": "5",
-      "references": [],
-      "title": "composition"
-    }
-  ],
+  "in-progress": [],
   "testing": [],
   "done": [
     {
@@ -54,6 +43,16 @@
       "id": "1",
       "references": [],
       "title": "Ch01"
+    },
+    {
+      "assignedTo": {
+        "name": "Björn Kihlberg"
+      },
+      "category": "functional_programming",
+      "creation_time": "2020-10-16T02:37:50.482Z",
+      "id": "5",
+      "references": [],
+      "title": "composition"
     }
   ]
 }
