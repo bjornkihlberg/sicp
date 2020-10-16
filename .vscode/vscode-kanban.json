@@ -24,6 +24,16 @@
       "assignedTo": {
         "name": "Björn Kihlberg"
       },
+      "category": "functional_programming",
+      "creation_time": "2020-10-16T02:37:50.482Z",
+      "id": "5",
+      "references": [],
+      "title": "composition"
+    },
+    {
+      "assignedTo": {
+        "name": "Björn Kihlberg"
+      },
       "category": "ex03-streams",
       "creation_time": "2020-10-16T02:34:07.886Z",
       "id": "2",
