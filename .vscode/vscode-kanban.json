@@ -1,5 +1,46 @@
 {
-  "todo": [],
+  "todo": [
+    {
+      "assignedTo": {
+        "name": "Björn Kihlberg"
+      },
+      "category": "relational_programming",
+      "creation_time": "2020-10-16T02:35:17.941Z",
+      "id": "4",
+      "references": [],
+      "title": "Ch01"
+    },
+    {
+      "assignedTo": {
+        "name": "Björn Kihlberg"
+      },
+      "category": "ex04-dependent_types",
+      "creation_time": "2020-10-16T02:33:46.097Z",
+      "id": "1",
+      "references": [],
+      "title": "Ch01"
+    },
+    {
+      "assignedTo": {
+        "name": "Björn Kihlberg"
+      },
+      "category": "ex04-dependent_types",
+      "creation_time": "2020-10-16T02:34:44.230Z",
+      "id": "3",
+      "references": [],
+      "title": "Ch02"
+    },
+    {
+      "assignedTo": {
+        "name": "Björn Kihlberg"
+      },
+      "category": "ex03-streams",
+      "creation_time": "2020-10-16T02:34:07.886Z",
+      "id": "2",
+      "references": [],
+      "title": "stream functions"
+    }
+  ],
   "in-progress": [],
   "testing": [],
   "done": []
