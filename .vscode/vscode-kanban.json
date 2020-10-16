@@ -14,7 +14,7 @@
       "assignedTo": {
         "name": "Björn Kihlberg"
       },
-      "category": "ex04-dependent_types",
+      "category": "ex03-dependent_types",
       "creation_time": "2020-10-16T02:34:44.230Z",
       "id": "3",
       "references": [],
@@ -24,7 +24,7 @@
       "assignedTo": {
         "name": "Björn Kihlberg"
       },
-      "category": "ex03-streams",
+      "category": "ex02-streams",
       "creation_time": "2020-10-16T02:34:07.886Z",
       "id": "2",
       "references": [],
