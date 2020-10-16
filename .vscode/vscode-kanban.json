@@ -15,16 +15,6 @@
         "name": "Björn Kihlberg"
       },
       "category": "ex04-dependent_types",
-      "creation_time": "2020-10-16T02:33:46.097Z",
-      "id": "1",
-      "references": [],
-      "title": "Ch01"
-    },
-    {
-      "assignedTo": {
-        "name": "Björn Kihlberg"
-      },
-      "category": "ex04-dependent_types",
       "creation_time": "2020-10-16T02:34:44.230Z",
       "id": "3",
       "references": [],
@@ -43,5 +33,16 @@
   ],
   "in-progress": [],
   "testing": [],
-  "done": []
+  "done": [
+    {
+      "assignedTo": {
+        "name": "Björn Kihlberg"
+      },
+      "category": "ex04-dependent_types",
+      "creation_time": "2020-10-16T02:33:46.097Z",
+      "id": "1",
+      "references": [],
+      "title": "Ch01"
+    }
+  ]
 }
